@@ -18,36 +18,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mangeshchavan10" alt="mangeshchavan10" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contuct Me:</title>
-</head>
-<body>
     <h4>Contact me:-</h4>
-    <ul>
         <li>email: mangeshchavan037@gmail.com </li>
-        <li>phone number </li>
-    </ul>
- 
-     <form  action="mailto:info@mangeshchavan037@gmail.com " method="post" enctype="text/plain">
-    <label>Your Name:</label>
-    <input type="text" name="yourName"><br>
-    <label>Your email:</label>
-    <input type="email" name="yourEmail"><br>
-    <label>Your Message </label><br>
-    <textarea name="yourMessage" cols="30" rows="10"></textarea><br>
-     <input type="submit" name="" value="submit">
-</form>
-
-</body>
-</html></h3>
-<p align="left">
-</p>
+      
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
